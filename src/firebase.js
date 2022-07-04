@@ -8,14 +8,16 @@ import "firebase/compat/auth";
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+
+// Todo add firebase Config object here
 const firebaseConfig = {
-  apiKey: "AIzaSyADYK-9qGCx6fdJPGS6Y0B_wRw9TOK7Zk4",
-  authDomain: "mentostark-31331.firebaseapp.com",
-  projectId: "mentostark-31331",
-  storageBucket: "mentostark-31331.appspot.com",
-  messagingSenderId: "387270232884",
-  appId: "1:387270232884:web:7e8a287bc343a950b5b361",
-  measurementId: "G-N27GH4EDRF",
+  apiKey: "asas",
+  authDomain: "asa",
+  projectId: "asa1",
+  storageBucket: "sdsd",
+  messagingSenderId: "sdsd",
+  appId: "1:sd:web:sd",
+  measurementId: "G-sds",
 };
 
 // Initialize Firebase
